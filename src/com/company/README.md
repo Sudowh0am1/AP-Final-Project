@@ -7,10 +7,6 @@ as anyone become a member of the bank, a menu is shown and they can choose their
 item among available options.
 
 
-
-
-+ a project by : Arefeh Ataei - Mahdieh Raeyati - Fatemeh Pakmehr
-
 + (Written in java **;**)
 
 

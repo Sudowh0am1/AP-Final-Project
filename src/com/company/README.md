@@ -9,13 +9,6 @@ item among available options.
 
 + (Written in java **;**)
 
-
-+ phases :
-
-1- consul  
-2- graphic  
-3- multi threading
-
 - used jar libraries :
 
 1- Gson  
